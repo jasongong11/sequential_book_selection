@@ -6,7 +6,7 @@ pal_npg("nrc")(10)
 library(censReg)
 library(rstatix)
 
-df_model <- read.csv("prolific_model_fitting_final.csv")
+df_model <- read.csv("prolific_model_fitting.csv")
 
 df_model$beta[df_model$beta < -4.99] <- -4.99
 estResult1 <- censReg( beta ~ age + curiosity_je + curiosity_ts + curiosity_ds + 
