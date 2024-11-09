@@ -22,6 +22,7 @@ The analyzed data including model fiting data can also be found in the directory
 The analyzed data including model fiting data can also be found in the directory /data/s2/
 
 ### Directory tree
+```
 ./
 ├── data
 │   ├── s1
@@ -58,3 +59,4 @@ The analyzed data including model fiting data can also be found in the directory
     ├── step3_behavioral_statistical_analysis.ipynb
     ├── step4_mixed_effect_model.ipynb
     └── step5_cens_reg_models.R
+```
