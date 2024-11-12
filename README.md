@@ -18,8 +18,6 @@ Online book selection data is open-sourced dataset and can be downloaded from [h
 We shared the behaviral data and survey data that were collected using Psychopy and Pavlovia platfrom where participants were recruited from Prolific. 
 
 The analyzed data including model fiting data can also be found in the directory /data/s2/
-=======
-The analyzed data including model fiting data can also be found in the directory /data/s2/
 
 ### Directory tree
 ```
